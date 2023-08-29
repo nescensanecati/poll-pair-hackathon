@@ -10,7 +10,7 @@ The work was distributed so every member could complete the same ammount of work
 We had a lot of fun in the sense that everything that could break, broke. We learned as much as we could and we had fun as much as we could.
 
 The collaborators for this repo are: 
-- Ivan Salgado ()
+- Ivan Salgado (https://github.com/ivanjsalgado)
 - Alejandro Malagon Diaz (https://github.com/nescensanecati)
 
 This site is using a backend API that can be checked in the Git repository: 
