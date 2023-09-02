@@ -20,4 +20,4 @@ The API was adapted to be run in production, and it is now running in Heroku, un
 https://database-backend-brainstation-70fdd396b787.herokuapp.com/
 
 If you want to see this project deployed and in action, please go to: 
-https://main--capable-piroshki-4e28e1.netlify.app/
+https://pair-hackaton.alex-diaz.info/
